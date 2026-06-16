@@ -1,8 +1,18 @@
-# IEUM (이음)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/team-ieum/.github/master/profile/assets/ieum-logo.png" alt="IEUM 로고" width="160" />
+</p>
 
-> **AI 에이전트 기반 업무 자동화 플랫폼** — Zapier/Make의 워크플로우 자동화에 AI Agent를 결합한 B2B/B2G 솔루션
+<h1 align="center">IEUM &nbsp;이음</h1>
+
+<p align="center"><b>AI 에이전트 기반 업무 자동화 플랫폼</b><br/>Zapier/Make의 워크플로우 자동화에 AI Agent를 결합한 B2B/B2G 솔루션</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/team-ieum/.github/master/profile/assets/wave.svg" alt="IEUM wave" width="100%" />
+</p>
 
 자연어로 워크플로우를 **생성·수정·실행**하고, AI 에이전트가 다양한 외부 서비스(Slack, Notion, Google, GitHub 등)를 오케스트레이션하여 업무를 자동화합니다.
+
+<p align="center">
 
 ![Java](https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -10,6 +20,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</p>
 
 ### 🎬 서비스 시연 영상
 
