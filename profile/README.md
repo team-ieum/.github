@@ -25,7 +25,7 @@
 
 ### 🎬 서비스 시연 영상
 
-[![IEUM 서비스 시연 영상](https://img.youtube.com/vi/yKhBYic2I_E/maxresdefault.jpg)](https://youtu.be/yKhBYic2I_E)
+[![IEUM 서비스 시연 영상](https://img.youtube.com/vi/0g8YClOgHyw/maxresdefault.jpg)](https://youtu.be/0g8YClOgHyw)
 
 > 위 썸네일을 클릭하면 YouTube 시연 영상으로 이동합니다.
 
