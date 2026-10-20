@@ -58,13 +58,13 @@ graph LR
 
 | 레포 | 역할 | 핵심 스택 |
 |------|------|-----------|
-| [`ieum-frontend`](./ieum-frontend) | 워크플로우 빌더 UI · 대시보드 | React 19, TypeScript 5, Vite 7, Zustand, React Query, Tailwind 4 |
-| [`ieum-backend`](./ieum-backend) | REST API · 인증 · 워크플로우 엔진 · 크레덴셜 관리 | Java 21, Spring Boot 3.5, Gradle 멀티모듈, PostgreSQL 16, Redis 7 |
-| [`ieum-agent`](./ieum-agent) | AI 노드 실행 · 동적 워크플로우 생성/수정 · 멀티 에이전트 | Python 3.11+, FastAPI, Google ADK, MongoDB |
-| [`ieum-finetune`](./ieum-finetune) | 워크플로우 생성/수정용 자체 LLM 파인튜닝 파이프라인 | Qwen2.5-7B, QLoRA(Unsloth), vLLM |
-| [`ieum-infra`](./ieum-infra) | 로컬/배포 인프라 (Docker Compose) | Docker Compose |
+| [`ieum-frontend`](https://github.com/team-ieum/ieum-frontend) | 워크플로우 빌더 UI · 대시보드 | React 19, TypeScript 5, Vite 7, Zustand, React Query, Tailwind 4 |
+| [`ieum-backend`](https://github.com/team-ieum/ieum-backend) | REST API · 인증 · 워크플로우 엔진 · 크레덴셜 관리 | Java 21, Spring Boot 3.5, Gradle 멀티모듈, PostgreSQL 16, Redis 7 |
+| [`ieum-agent`](https://github.com/team-ieum/ieum-agent) | AI 노드 실행 · 동적 워크플로우 생성/수정 · 멀티 에이전트 | Python 3.11+, FastAPI, Google ADK, MongoDB |
+| `ieum-finetune` | 워크플로우 생성/수정용 자체 LLM 파인튜닝 파이프라인 | Qwen2.5-7B, QLoRA(Unsloth), vLLM |
+| [`ieum-infra`](https://github.com/team-ieum/ieum-infra) | 로컬/배포 인프라 (Docker Compose) | Docker Compose |
 | [`ieum-node-catalog`](https://github.com/team-ieum/ieum-node-catalog) | 노드 이벤트 정의 원본 (backend·agent가 서브모듈로 공유) | JSON, Python 검사기 |
-| [`ieum-presentation`](./ieum-presentation) | 프로토타입 발표 자료 | HTML 슬라이드 덱 |
+| [`ieum-presentation`](https://github.com/team-ieum/ieum-presentation) | 프로토타입 발표 자료 | HTML 슬라이드 덱 |
 
 ---
 
