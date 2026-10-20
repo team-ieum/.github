@@ -63,6 +63,7 @@ graph LR
 | [`ieum-agent`](./ieum-agent) | AI 노드 실행 · 동적 워크플로우 생성/수정 · 멀티 에이전트 | Python 3.11+, FastAPI, Google ADK, MongoDB |
 | [`ieum-finetune`](./ieum-finetune) | 워크플로우 생성/수정용 자체 LLM 파인튜닝 파이프라인 | Qwen2.5-7B, QLoRA(Unsloth), vLLM |
 | [`ieum-infra`](./ieum-infra) | 로컬/배포 인프라 (Docker Compose) | Docker Compose |
+| [`ieum-node-catalog`](https://github.com/team-ieum/ieum-node-catalog) | 노드 이벤트 정의 원본 (backend·agent가 서브모듈로 공유) | JSON, Python 검사기 |
 | [`ieum-presentation`](./ieum-presentation) | 프로토타입 발표 자료 | HTML 슬라이드 덱 |
 
 ---
@@ -131,5 +132,6 @@ IEUMWorkSpace/
 ├── ieum-agent/         # AI 에이전트 서버 (FastAPI)
 ├── ieum-finetune/      # 자체 LLM 파인튜닝
 ├── ieum-infra/         # 인프라 (Docker Compose)
+├── ieum-node-catalog/  # 노드 이벤트 정의 원본
 └── ieum-presentation/  # 발표 자료
 ```
